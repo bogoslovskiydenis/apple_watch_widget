@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../ActivityRings.dart';
+import 'ActivityRingsPainter.dart';
 
 class ActivityRings extends StatelessWidget {
   final double moveProgress;

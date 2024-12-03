@@ -2,7 +2,6 @@ import 'package:apple_watch_widget/screens/widgets/ActivityRings.dart';
 import 'package:apple_watch_widget/screens/widgets/ProgressSlider.dart';
 import 'package:flutter/material.dart';
 
-import '../ActivityRings.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
